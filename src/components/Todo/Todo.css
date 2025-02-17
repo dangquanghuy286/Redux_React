@@ -1,0 +1,7 @@
+.todo__Content {
+    font-weight: 500;
+}
+
+.todo__Content--completed {
+    text-decoration: line-through;
+}

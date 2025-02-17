@@ -1,13 +1,17 @@
 import './App.css';
-import Counter from './components/Counter';
-import Counter2 from './Counter2';
-
+import TodoListMain from './components/Todo';
+// import Counter from './components/Counter';
+// import Counter2 from './components/Counter2';
 function App() {
   return (
     <>
-      <Counter />
-      <Counter2 />
+      {/* <Counter /> */}
+      {/* <Counter2 /> */}
+      <TodoListMain />
     </>
+
+
+
   );
 }
 
